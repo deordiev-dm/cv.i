@@ -43,7 +43,7 @@ body {
 }
 
 .img_1 {
-    width: 200px;
+    height: 250px;
     border-radius: 20px;
 }
 
@@ -55,7 +55,7 @@ body {
 
 .container_2 p {
     padding-top: 7px;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 @media (max-width: 750px) {
