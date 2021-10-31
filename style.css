@@ -47,8 +47,14 @@ body {
     border-radius: 20px;
 }
 
+.nazva {
+    border: solid red 2px;
+    margin-top: 3px;
+}
+
 .container_2 p {
-    font-size: 100%;
+    padding-top: 7px;
+    font-size: 14px;
 }
 
 @media (max-width: 750px) {
